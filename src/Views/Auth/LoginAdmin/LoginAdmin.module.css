@@ -1,0 +1,11 @@
+@media (min-width: 576px) {
+    .box_login {
+        width: 50%;
+    }
+}
+
+@media (min-width: 992px) {
+    .box_login {
+        width: 30%;
+    }
+}

@@ -1,0 +1,14 @@
+.card_name { 
+    font-weight: 400; 
+    color: #000;
+    margin-top: 10px;
+}
+
+.image_category:hover {
+    transform: scale(1.07);
+    transition: all ease 0.4s;
+}
+
+.card_category:hover {
+    
+}
